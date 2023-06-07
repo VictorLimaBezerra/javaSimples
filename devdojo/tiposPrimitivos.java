@@ -14,19 +14,8 @@ public class tiposPrimitivos {
                 "de encanadores desde de " +data+ " e temos serviços à partir de "+valor+" reais."+" Para mais " +
                 "informaçõs, temos este link que leva ao nosso site:"+site;
 
-
-
-
-
-
-
-
-
-
-
-
-
-            System.out.println(frase);
+        System.out.println(frase);
+        System.out.println(name1);
 
     }
 }
